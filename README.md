@@ -1,8 +1,9 @@
 Loan Amortization Calculator
+
 An Interactive Excel Financial Tool
+
 By Triet Nguyen
 
-Overview
 This Excel-based loan amortization calculator allows users to input any loan amount, interest rate, and loan term to instantly generate a full monthly payment schedule. This was built to demonstrate practical Excel skills including financial formulas, structured data tables, and professional formatting.
 
 Features
