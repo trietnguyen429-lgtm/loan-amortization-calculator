@@ -16,7 +16,7 @@ Features
 
 How to Use
 
-1. Download the Loan_Amortization_Calculator.xlsx file
+1. Download the Loan Amortization Calculator.xlsx file
 2. Open it in Microsoft Excel or Google Sheets
 3. Enter your values in the input section:
 -Loan Amount = the total amount borrowed
