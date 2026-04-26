@@ -20,9 +20,9 @@ How to Use
 2. Open it in Microsoft Excel or Google Sheets
 3. Enter your values in the input section:
 
--Loan Amount = the total amount borrowed
--Annual Interest Rate = as a decimal (e.g. 0.05 for 5%)
--Loan Term (Years) = number of years to repay
+- Loan Amount = the total amount borrowed
+- Annual Interest Rate = as a decimal (e.g. 0.05 for 5%)
+- Loan Term (Years) = number of years to repay
 
 
 The monthly payment and full amortization schedule will update automatically
